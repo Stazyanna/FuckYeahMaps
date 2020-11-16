@@ -1,7 +1,7 @@
 <b>#Sex Work In Paris
 </b>
 <p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself, the status o women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique <p>
-<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="474"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "600" height="800"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
