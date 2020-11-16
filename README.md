@@ -1,13 +1,13 @@
 <b>#Human Evolution Highlights
 </b>
-<p> I like Neanderthals and company almost as much as I like maps, so I made a map that brings together some of the coolest research about Neadnerthals, H. sapiens Denisovans and some mystery hominins that has come out in the last ten years. These finds bring together data from genetics as well as anthropology and archaeology to illustrate how amazingly complex the story of human dispersal has become. Links to the origanal articles can be found by clicking your mouse on the point
+<p> I like Neanderthals and company almost as much as I like maps, so I made a map that brings together some of the coolest research about Neadnerthals, H. sapiens Denisovans and some mystery hominins that has come out in the last ten years. These finds bring together data from genetics as well as anthropology and archaeology to illustrate how amazingly complex the story of human dispersal has become. Links to the original publications can be found by clicking your mouse on the point
 </p> 
 <iframe aria-label="chart" src="https://datawrapper.dwcdn.net/A5Uri/1/" scrolling="yes" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "1600" height="1800"></iframe>
 
 <b>#Sex Work In Paris
 </b>
 <p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself. The status of women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique. </p>
-<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "1600" height="1800"></iframe>
+<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/7/" scrolling="yes" frameborder="0" width = "1600" height="1800"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
