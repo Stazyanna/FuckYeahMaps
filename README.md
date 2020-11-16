@@ -2,12 +2,16 @@
 </b>
 <p> I like Neanderthals and company almost as much as I like maps, so I made a map that brings together some of the coolest research about Neadnerthals, H. sapiens Denisovans and some mystery hominins that has come out in the last ten years. These finds bring together data from genetics as well as anthropology and archaeology to illustrate how amazingly complex the story of human dispersal has become. Links to the original publications can be found by clicking your mouse on the point
 </p> 
-<iframe aria-label="chart" src="https://datawrapper.dwcdn.net/A5Uri/2/" scrolling="yes" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" </iframe>
+<iframe title="Highlights from the Human Journey" aria-label="Map" id="datawrapper-chart-A5Uri" src="https://datawrapper.dwcdn.net/A5Uri/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="611"></iframe>
+<script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 <b>#Sex Work In Paris
 </b>
-<p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself. The status of women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique. </p>
-<iframe title="Sex Work in Paris" aria-label="Map" id="datawrapper-chart-xk3L0" src="https://datawrapper.dwcdn.net/xk3L0/1/" scrolling="no" frameborder="0" height="520"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself. The status of women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique.
+</p>
+<iframe title="Sex Work in Paris" aria-label="Map" id="datawrapper-chart-xk3L0" src="https://datawrapper.dwcdn.net/xk3L0/1/" scrolling="no" frameborder="0" height="520"></iframe>
+<script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 </script>
