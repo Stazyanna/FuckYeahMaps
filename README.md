@@ -2,23 +2,17 @@
 </b>
 <p> I like Neanderthals and company almost as much as I like maps, so I made a map that brings together some of the coolest research about Neadnerthals, H. sapiens Denisovans and some mystery hominins that has come out in the last ten years. These finds bring together data from genetics as well as anthropology and archaeology to illustrate how amazingly complex the story of human dispersal has become. Links to the origanal articles can be found by clicking your mouse on the point
 </p> 
-<iframe aria-label="chart" src="https://datawrapper.dwcdn.net/A5Uri/1/" scrolling="yes" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "600" height="800"></iframe>
-
-
+<iframe aria-label="chart" src="https://datawrapper.dwcdn.net/A5Uri/1/" scrolling="yes" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "1600" height="1800"></iframe>
 
 <b>#Sex Work In Paris
 </b>
-<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/6/" scrolling="yes" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width = "600" height="800"></iframe>
+<iframe title="Sex Work In Paris" aria-label="chart" id="datawrapper-chart-HFNcv" src="https://datawrapper.dwcdn.net/HFNcv/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="591"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 <p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself, the status of women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique </p>
-
-
-
 
 <b>#Witch Hunts and Trials
 </b>
-<p> So because I like maps and procrastinating I made this interactive web map of historic European witch hunts (although I threw Salem in for good measure). I also did this because I want to show everyone how awesome open sources software is and that you don’t need a degree to do and display some basic research.
-
-Also because I read Caliban and the Witch last year and I wanted to find ways of visibilising aspects of womens history. Creating the database for this map was like falling down a rabbit hole; I just kept on discivering more and more tragedy, and the numbers of executions and trials just kept stacking up and up. Just to be clear, the cases presented here are mainly only those in which more than one woman was tried and that the trial was recorded, there must be many cases which went as unrecorded lynchings, or which only involved a single trial. If you know of any other cases of witch trials or witch hunts, please let me know. </p>
+<p> So because I like maps and procrastinating I made this interactive web map of historic European witch hunts (although I threw Salem in for good measure). I also did this because I want to show everyone how awesome open sources software is and that you don’t need a degree to do and display some basic research. Also because I read Caliban and the Witch last year and I wanted to find ways of visibilising aspects of womens history. Creating the database for this map was like falling down a rabbit hole; I just kept on discivering more and more tragedy, and the numbers of executions and trials just kept stacking up and up. Just to be clear, the cases presented here are mainly only those in which more than one woman was tried and that the trial was recorded, there must be many cases which went as unrecorded lynchings, or which only involved a single trial. If you know of any other cases of witch trials or witch hunts, please let me know. </p>
 
 <iframe src ="https://qgiscloud.com/Staz/witcheswebmaponcloud/?bl=mapnik&st=&l=Sites%20of%20Witch%20Hunts&t=witcheswebmaponcloud&e=-1398614%2C6083232%2C2215594%2C7813607" width = "800" height = "600" >
  </iframe>
