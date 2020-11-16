@@ -2,7 +2,7 @@
 </b>
 <p> I like Neanderthals and company almost as much as I like maps, so I made a map that brings together some of the coolest research about Neadnerthals, H. sapiens Denisovans and some mystery hominins that has come out in the last ten years. These finds bring together data from genetics as well as anthropology and archaeology to illustrate how amazingly complex the story of human dispersal has become. Links to the origanal articles can be found by clicking your mouse on the point
 </p>
-<iframe title="Highlights from the Human Journey" aria-label="Map" id="datawrapper-chart-A5Uri" src="https://datawrapper.dwcdn.net/A5Uri/1/" scrolling="yes" frameborder="0" style="border: none;" width="800" height="524"></iframe>
+<iframe title="Highlights from the Human Journey" aria-label="Map" id="datawrapper-chart-A5Uri" src="https://datawrapper.dwcdn.net/A5Uri/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width="800" height="524"></iframe>
 
 
 
