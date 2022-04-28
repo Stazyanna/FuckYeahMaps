@@ -4,7 +4,7 @@
 <figure class="wp-block-image size-large"><img src="https://nopickingsides.files.wordpress.com/2022/04/image.png?w=1024" alt="" class="wp-image-692"/></figure>
 <!-- /wp:image -->
 
- <iframe title="Historic Sex Work In London" aria-label="Map" src="https://qgiscloud.com/Staz/LondonHistoricSexWork/?%2F=&l=Medieval%20Period%2CTudor%20Period%2CStuart%20Period%2CGeorgian%20Period%2CHarris_Lists%20From%20Romantic%20London%2CVictorian%20Period%2C20th%20Century%20Period%2Ccovent_garden%2CTheStews%2CTable%20of%20Historic%20Sex%20Work%2CTable%20of%20Entries%20in%20Harris%20Lists%20compiled%20by%20M%20Sangster%20Romantic%20London&bl=mapnik&t=LondonHistoricSexWork&e=-18895%2C6710023%2C-2639%2C6717547" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width="600" height="600"></iframe>
+ <iframe title="Historic Sex Work In London" aria-label="Map" src="https://qgiscloud.com/Staz/LondonHistoricSexWork/?/%2F=&l=Medieval%20Period%2CTudor%20Period%2CStuart%20Period%2CGeorgian%20Period%2CHarris_Lists%20From%20Romantic%20London%2CVictorian%20Period%2C20th%20Century%20Period%2Ccovent_garden%2CTheStews%2CTable%20of%20Historic%20Sex%20Work%2CTable%20of%20Entries%20in%20Harris%20Lists%20compiled%20by%20M%20Sangster%20Romantic%20London&bl=mapnik&t=LondonHistoricSexWork&e=-18895%2C6710023%2C-2639%2C6717547" width="600" height="600"></iframe>
  
  
 <!-- wp:paragraph -->
