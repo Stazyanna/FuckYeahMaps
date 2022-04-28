@@ -4,7 +4,7 @@
 <figure class="wp-block-image size-large"><img src="https://nopickingsides.files.wordpress.com/2022/04/image.png?w=1024" alt="" class="wp-image-692"/></figure>
 <!-- /wp:image -->
 
- <iframe title="Historic Sex Work In London" aria-label="Map" src="https://qgiscloud.com/Staz/LondonHistoricSexWork/?/ width="600" height="600"></iframe>
+ <iframe title="Historic Sex Work In London" aria-label="Map" src="<iframe title="Historic Sex Work In London" aria-label="Map" src="https://qgiscloud.com/Staz/LondonHistoricSexWork/?%2F=&l=Medieval%20Period%2CTudor%20Period%2CStuart%20Period%2CGeorgian%20Period%2CHarris_Lists%20From%20Romantic%20London%2CVictorian%20Period%2C20th%20Century%20Period%2Ccovent_garden%2CTheStews%2CTable%20of%20Historic%20Sex%20Work%2CTable%20of%20Entries%20in%20Harris%20Lists%20compiled%20by%20M%20Sangster%20Romantic%20London&bl=mapnik&t=LondonHistoricSexWork&e=-18895%2C6710023%2C-2639%2C6717547" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width="600" height="600"></iframe>
  
  
 <!-- wp:paragraph -->
@@ -97,20 +97,20 @@
 </p> 
 <iframe title="Highlights from the Human Journey" aria-label="Map" id="datawrapper-chart-A5Uri" src="https://datawrapper.dwcdn.net/A5Uri/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" width="600" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
+******************************************************************************
 <b>#Sex Work In Paris
 </b>
 <p> This map, created with Datawrapper (omg new easy to use tools yass!), gives a first glace at the terrain of sex work in Paris. An inherently complex subject which can be both invisible and invisibilised, the history of sex work in Paris is also a history of the city itself. The status of women and the poor, and the ongoing tension between the suburbs and Paris itself, leading to much illicit activity on the cities borders around the peripherique.
 </p>
 <iframe title="Sex Work in Paris" aria-label="Map" id="datawrapper-chart-xk3L0" src="https://datawrapper.dwcdn.net/xk3L0/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
-
+************************************************************************************
 <b>#Witch Hunts and Trials
 </b>
 <p> So because I like maps and procrastinating I made this interactive web map of historic European witch hunts (although I threw Salem in for good measure). I also did this because I want to show everyone how awesome open sources software is and that you don’t need a degree to do and display some basic research. Also because I read Caliban and the Witch last year and I wanted to find ways of visibilising aspects of womens history. Creating the database for this map was like falling down a rabbit hole; I just kept on discivering more and more tragedy, and the numbers of executions and trials just kept stacking up and up. Just to be clear, the cases presented here are mainly only those in which more than one woman was tried and that the trial was recorded, there must be many cases which went as unrecorded lynchings, or which only involved a single trial. If you know of any other cases of witch trials or witch hunts, please let me know. </p>
 
 <iframe src ="https://qgiscloud.com/Staz/witcheswebmaponcloud/?bl=mapnik&st=&l=Sites%20of%20Witch%20Hunts&t=witcheswebmaponcloud&e=-1398614%2C6083232%2C2215594%2C7813607" width = "600" height = "400" >
  </iframe>
-
+******************************************************************************************
 <b># ItsGoingDown
 December 2019
  </b>
